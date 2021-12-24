@@ -9,6 +9,14 @@
 - 🤝 I’m looking to collaborate on MLOps/SecOps.
 - 💬 Ask me about Cloud.
 
+## Repo-links:
+
+
+### K8s :
+https://github.com/shashi-deep/kubernetes
+
+### Elastic Search :
+https://github.com/shashi-deep/elastic-search
 
 ## 🛠 &nbsp;Tech Stack
 
